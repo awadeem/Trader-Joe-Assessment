@@ -4,7 +4,7 @@ Joe is a stock trader. His goal is to make as much money as possible. To do this
 
 ## Directions
 
-1. Create a class named StockPortfolio. It should have the following attributes and methods:
+1. Create a class named cd.rr.trader.StockPortfolio. It should have the following attributes and methods:
     
     ### Attributes
         value -> an attribute of type double that holds the value of the portfolio
